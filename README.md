@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @KTSnowy
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning web development
+- Hi, I’m Keith Taylor
+- I'm just an arctic fox🦊
+- Software Developer⌨️
+- He/Him
 
 <!---
 KTSnowy/KTSnowy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
